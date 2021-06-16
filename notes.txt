@@ -1,0 +1,14 @@
+
+https://dev.to/deadwing7x/setup-a-react-app-with-webpack-and-babel-4o3k
+https://www.evernote.com/shard/s253/client/snv?noteGuid=3257c72c-c973-7c17-0768-09c5be9adadf&noteKey=c89edbd8371db302b54bd4ef2aa82da4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs253%2Fsh%2F3257c72c-c973-7c17-0768-09c5be9adadf%2Fc89edbd8371db302b54bd4ef2aa82da4&title=Project%2Bwith%2BInna
+
+While you are inside the folder, create a new package.json file:
+npm init -y
+This above command generates a package.json file, no questions asked.
+
+git remote -v
+
+Cmd/Shift/. show hidden files in finder
+
+
+
