@@ -10,5 +10,6 @@ git remote -v
 
 Cmd/Shift/. show hidden files in finder
 
+https://www.omdbapi.com/?apikey=9992abf4&t=Avatar
 
 

@@ -1,0 +1,26 @@
+.movie-wrapper {
+    display: flex
+}
+
+.movie-image {
+    height: 400px;
+    @media (min-width: 500px)
+}
+
+.movie-wrapper {
+    display: flex;
+}
+
+.movie {}
+
+.movie-image {
+    width: 200px;
+    height: 290px;
+}
+
+@media (max-width: 500px) {
+    .movie-image {
+        width: 100px;
+        height: 145px;
+    }
+}
